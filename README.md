@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on: Developing and refining my personal portfolio project, Adarsh-Portfolio.
+🔭 I’m currently working on: Developing and refining my personal portfolio project, Adarsh-Portfolio. 
+<div>
+        <a href="https://mindedcode.github.io/Adarsh-Portfolio/" target="_blank">Portfolio Link</a>
+</div>
 
 👯 I’m looking to collaborate on: Open-source projects involving Java, Python, or JavaScript.
 
@@ -20,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
- <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>GPRM : GitHub Profile ReadMe Maker</h1>
+ <!-- <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>GPRM : GitHub Profile ReadMe Maker</h1> -->
  <a href="https://www.buymeacoffee.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fgprm.itsvg.in/"/> 
@@ -31,7 +34,7 @@ Here are some ideas to get you started:
 
 ![screencapture-gprm-itsvg-in-2022-06-20-23_26_35](https://user-images.githubusercontent.com/81325730/174656518-bfb20479-6b5c-4947-8a5c-f709f35ed345.png)
 
-# Features
+<!-- # Features
 We've got everything that you need! Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free!
 
 ### ⚡ Lightning Fast Profile Creation
@@ -119,5 +122,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 </details>
+
+-->
 
 
