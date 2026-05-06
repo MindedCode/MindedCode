@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**MindedCode/MindedCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**MindedCode/MindedCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 🔭 I’m currently working on: Developing and refining my personal portfolio project, Adarsh-Portfolio. 
 <div style="padding-bottom: 10px;">
