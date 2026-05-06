@@ -6,8 +6,10 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working on: Developing and refining my personal portfolio project, Adarsh-Portfolio. 
-<div>
-        <a href="https://mindedcode.github.io/Adarsh-Portfolio/" target="_blank">Portfolio Link</a>
+<div style="padding-bottom: 10px;">
+    <a href="https://mindedcode.github.io/Adarsh-Portfolio/" target="_blank">
+        <button type="button">View Portfolio</button>
+    </a>
 </div>
 
 👯 I’m looking to collaborate on: Open-source projects involving Java, Python, or JavaScript.
