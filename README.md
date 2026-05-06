@@ -7,8 +7,16 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on: Developing and refining my personal portfolio project, Adarsh-Portfolio. 
 <div style="padding-bottom: 10px;">
-    <a href="https://mindedcode.github.io/Adarsh-Portfolio/" target="_blank">
-        <button type="button">View Portfolio</button>
+    <a href="https://mindedcode.github.io/Adarsh-Portfolio/" 
+       target="_blank" 
+       style="background-color: #007bff; 
+              color: white; 
+              padding: 10px 20px; 
+              text-decoration: none; 
+              border-radius: 5px; 
+              display: inline-block;
+              font-family: Arial, sans-serif;">
+       View Portfolio
     </a>
 </div>
 
